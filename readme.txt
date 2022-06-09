@@ -1,12 +1,3 @@
-npm init
-npm install jquery --save
-npm install three  --save
-npm install snowpack  --save-dev
-npx snowpack init
+A simple demo using three.js and snowpack
 
-  "scripts": {
-    "start": "snowpack dev",
-    "build": "snowpack build",
-  },
-
-<script type="module" src="index.js"></script>
+https://craig-fitzgerald.com/
